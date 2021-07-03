@@ -10,6 +10,10 @@
 
 * [[Hacker News] An invitation to category theory](https://news.ycombinator.com/item?id=18267536)
 
+## Papers
+
+* [Basic Category Theory - Tom Leinster](https://arxiv.org/abs/1612.09375)
+
 ## Blog Series
 
 * [From Design Patterns to Category Theory - Mark Seemann](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
